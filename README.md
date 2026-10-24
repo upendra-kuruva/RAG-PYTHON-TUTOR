@@ -66,8 +66,8 @@ PyMentor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/umertahir7/PyMentor.git
-cd PyMentor
+git clone https://github.com/upendra-kuruva/RAG-PYTHON-TUTOR.git
+cd RAG-PYTHON-TUTOR
 ```
 
 ### 2. Create a virtual environment
@@ -93,7 +93,7 @@ source venv/bin/activate
 ### 4. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.text
 ```
 
 ### 5. Configure the Groq API key
@@ -130,3 +130,5 @@ When the retrieved documents do not contain enough information to answer a quest
 * Improve retrieval evaluation
 * Add additional learning-focused features
 * Improve production-level error handling and monitoring
+## AUTHOR 
+ * KURUVA UPENDRA
